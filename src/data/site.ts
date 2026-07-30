@@ -83,7 +83,7 @@ export const resumeAsset = defineDownloadAsset({
   available: true,
   publicPath: "/downloads/resume/ZhongLianwei_Resume.pdf",
   suggestedPath: "public/downloads/resume/ZhongLianwei_Resume.pdf",
-  downloadName: "钟连炜ComfyUI_AIGC视觉工作流工程师简历.pdf",
+  downloadName: "钟连炜_ComfyUI_AIGC视觉工作流工程师_简历.pdf",
 });
 
 export const heroActions: readonly SiteAction[] = [
